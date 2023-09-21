@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+input {
+    display: block;
+    width: 300px;
+    height: 50px;
+}
+.checkbox {
+    width: 15px;
+    height: auto;
+    display: inline;
+}
+.radiobox {
+    width: 15px;
+    height: auto;
+    display: inline;
+}
+h1 {
+    color: red;
+}
+img {
+    height: 80px;
+    width: 80px;
+}
+.submit {
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: red;
+    font-size: 20px;
+}
